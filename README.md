@@ -14,5 +14,5 @@
 - Connect the repository,in my case I was using Github as the repository service and selected the repository I want to deploy and host
 - After the build is through click on the link and you willsee the web application
 
-## Demo
+## Live Demo
 [First deployment](https://main.dkg86r9l5bcrm.amplifyapp.com/)
