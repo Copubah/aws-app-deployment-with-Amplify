@@ -15,4 +15,4 @@
 - After the build is through click on the link and you willsee the web application
 
 ## Demo
-[!First deployment](https://main.dkg86r9l5bcrm.amplifyapp.com/)
+[First deployment](https://main.dkg86r9l5bcrm.amplifyapp.com/)
